@@ -13,6 +13,7 @@
 		C2B64D9D238CFC580010F3E9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2B64D9C238CFC580010F3E9 /* Assets.xcassets */; };
 		C2B64DA0238CFC580010F3E9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2B64D9E238CFC580010F3E9 /* LaunchScreen.storyboard */; };
 		C2B64DA8238CFFF50010F3E9 /* FantasticView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2B64DA7238CFFF50010F3E9 /* FantasticView.swift */; };
+		C2B64DCA238D2E4F0010F3E9 /* chapter1.rtf in Resources */ = {isa = PBXBuildFile; fileRef = C2B64DC9238D2E4F0010F3E9 /* chapter1.rtf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C2B64D9F238CFC580010F3E9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C2B64DA1238CFC580010F3E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C2B64DA7238CFFF50010F3E9 /* FantasticView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FantasticView.swift; sourceTree = "<group>"; };
+		C2B64DC9238D2E4F0010F3E9 /* chapter1.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = chapter1.rtf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		C2B64D94238CFC550010F3E9 /* My Demo */ = {
 			isa = PBXGroup;
 			children = (
+				C2B64DC9238D2E4F0010F3E9 /* chapter1.rtf */,
 				C2B64D95238CFC550010F3E9 /* AppDelegate.swift */,
 				C2B64D97238CFC550010F3E9 /* ViewController.swift */,
 				C2B64DA7238CFFF50010F3E9 /* FantasticView.swift */,
@@ -127,6 +130,7 @@
 			files = (
 				C2B64DA0238CFC580010F3E9 /* LaunchScreen.storyboard in Resources */,
 				C2B64D9D238CFC580010F3E9 /* Assets.xcassets in Resources */,
+				C2B64DCA238D2E4F0010F3E9 /* chapter1.rtf in Resources */,
 				C2B64D9B238CFC550010F3E9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
